@@ -19,6 +19,7 @@ At the moment this is my stack:
 - React
 - Node.js
 - Express.js
+- Google Cloud Products
 
 ### Extra
 - Comfortable working with Linux
