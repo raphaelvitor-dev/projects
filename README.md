@@ -22,7 +22,7 @@ At the moment this is my stack:
 - Google Cloud Products
 
 ### Extra
-- Comfortable working with Linux
+- Comfortable working with Linux (Gentoo and Arch)
 - Create and prototype on Figma is my Passion
 - Design background.
 ---
