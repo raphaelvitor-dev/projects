@@ -1,0 +1,13 @@
+.carousel{
+    padding: 0;
+    margin-bottom: 0px;
+    height: 500px;
+    width: 100%;
+}
+
+.carousel .carousel-item {
+    margin: 0;
+    height: auto;
+    width: auto;
+    padding: 0;
+}
