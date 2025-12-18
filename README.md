@@ -11,7 +11,7 @@ I'm a curious developer who loves to learn new technologies.
 At the moment this is my stack:
 
 ### Tech Stack 🔧
-- C#
+- C#/.NET
 - JavaScript (React, Node.js, Express.js)
 - SQL (MySQL, PostgreSQL)
 
