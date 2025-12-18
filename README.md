@@ -11,19 +11,16 @@ I'm a curious developer who loves to learn new technologies.
 At the moment this is my stack:
 
 ### Tech Stack 🔧
-- JavaScript
-- Python
-- PostgreSQL
+- C#
+- JavaScript (React, Node.js, Express.js)
+- SQL (MySQL, PostgreSQL)
 
 ### Learning / Improving 📕
-- React
-- Node.js
-- Express.js
 - Google Cloud Products
 
 ### Extra
 - Comfortable working with 🐧 Linux (Gentoo and Arch)
-- Create and prototype on 🎨 Figma is my Passion
+- Create and prototype on 🎨 Figma
 - Design background.
 ---
 
