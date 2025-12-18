@@ -1,4 +1,4 @@
-# Project Portfolio 💻
+# Project Portfolio
 
 This repository contains a curated selection of my personal and academic projects.
 
