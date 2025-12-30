@@ -1,0 +1,36 @@
+# ===== .NET / Visual Studio =====
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# ===== Logs =====
+*.log
+
+# ===== Rider / VS Code =====
+.idea/
+.vscode/
+
+# ===== Build artifacts =====
+*.dll
+*.exe
+*.pdb
+
+# ===== ASP.NET Core =====
+appsettings.Development.json
+appsettings.Local.json
+
+# ===== Environment variables =====
+.env
+
+# ===== OS lixo =====
+.DS_Store
+Thumbs.db
+
+# ===== Database =====
+*.mdf
+*.ldf
+*.db
