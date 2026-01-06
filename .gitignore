@@ -21,6 +21,7 @@ obj/
 
 # ===== ASP.NET Core =====
 appsettings.Development.json
+appsetings.json
 appsettings.Local.json
 
 # ===== Environment variables =====
