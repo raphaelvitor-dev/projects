@@ -1,4 +1,0 @@
-User-agent: *
-Disallow:
-
-Sitemap: https://www.gestaltdigitalagency.com/sitemap.xml
